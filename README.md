@@ -24,6 +24,26 @@ La reducción del espectro azul presente en luces LED blancas frías limita el i
 
 Determinar el efecto de la reducción del peak azul presente en luces LED blancas frías sobre la ecofisiología y conducta de *G. laevifrons*.
 
+## Métodos
+
+*Variables:*
+
+1.  Crecimiento (g)
+
+    Los individuos de *G. laevifrons* de cada réplica fueron alimentados diariamente con chorito maico (*Perumytilus purpuratus*). Este ensayo fue prolongado durante 16 días.
+
+    Los organismos fueron pesados al comienzo y al final del período experimental. La tasa de crecimiento fue determinada por la diferencia de peso, bajo la siguiente fórmula:
+
+    $Crecimiento$ $=$ $Peso$ $final$ $pez$ $-$ $peso$ $inicial$ $pez$
+
+2.  Consumo de O~2~ (mgO~2~g^-1^min^-1^)
+
+3.  Consumo de alimento (%)
+
+## Consumo de alimento 
+
+1.  
+
 ## Audiencia
 
 El presente repositorio está dirigido a investigadores, académicos y funcionarios públicos que:
@@ -38,11 +58,11 @@ El presente repositorio está dirigido a investigadores, académicos y funcionar
 
 Pontificia Universidad Católica de Chile
 
-Programa de Doctorado en Ciencias Biológicas mención Ecología
+Estudiante del Programa de Doctorado en Ciencias Biológicas mención Ecología
 
 AGP3141 - Curso de Visualización de Datos Medioambientales en R
 
-Dictado por Dra. Sara Acevedo –\> [\@Saryace](https://github.com/Saryace)
+Dictado por Dra. Sara Acevedo → [\@Saryace](#0){style="font-size: 11pt;"}
 
 [Researchgate](https://www.researchgate.net/profile/Valentina-A-Galaz-Guajardo); [Github](https://github.com/ValentinaGalazG); [LinkedIn](https://www.linkedin.com/in/valentinaantonellagalaz/)
 
