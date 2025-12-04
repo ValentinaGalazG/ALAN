@@ -1,8 +1,12 @@
+---
+bibliography: references.bib
+---
+
 # EFECTOS DE LA CONTAMINACIÓN LUMÍNICA (ALAN) SOBRE LA ECOFISIOLOGÍA DE UN PEZ INTERMAREAL DE LA COSTA CENTRO-NORTE DE CHILE
 
 [![© Imagen proveniente del Ministerio del Medio Ambiente (MMA) de Chile.](images/ALAN_CostadeChile.jpg)](https://luminica.mma.gob.cl/contaminacion-luminica-en-chile-y-el-mundo/)
 
-La Contaminación Lumínica, también conocida como "ALAN" (por el acrónimo inglés de Artificial Light at Night), es un estresor global de origen antropogénico que tiene la capacidad de alterar los ciclos naturales de luz y oscuridad (Cinzano *et al*., 2000), amenazando fuertemente a los sistemas ecológicos, tanto terrestres como acuáticos (Singhal *et al*., 2021). Este estresor se encuentra presente alrededor de todo el mundo (Falchi *et al*., 2016) propagándose vasta y rápidamente (Hölker *et al*., 2010) a un ritmo anual de 6% (Hölker *et al*., 2010) gracias a la proliferación de las luces eléctricas (Hölker *et al*., 2010), la urbanización (Hale *et al*., 2013), el aumento de la densidad poblacional y el crecimiento económico (Doll *et al*., 2006; Gallaway *et al*., 2010).
+La Contaminación Lumínica, también conocida como "ALAN" (por el acrónimo inglés de Artificial Light at Night), es un estresor global de origen antropogénico que tiene la capacidad de alterar los ciclos naturales de luz y oscuridad [@cinzano2000](Cinzano *et al*., 2000), amenazando fuertemente a los sistemas ecológicos, tanto terrestres como acuáticos (Singhal *et al*., 2021). Este estresor se encuentra presente alrededor de todo el mundo (Falchi *et al*., 2016) propagándose vasta y rápidamente (Hölker *et al*., 2010) a un ritmo anual de 6% (Hölker *et al*., 2010) gracias a la proliferación de las luces eléctricas (Hölker *et al*., 2010), la urbanización (Hale *et al*., 2013), el aumento de la densidad poblacional y el crecimiento económico (Doll *et al*., 2006; Gallaway *et al*., 2010).
 
 Los patrones de luz y oscuridad que ALAN ha modificado son esenciales a nivel molecular, fisiológico y conductual para los organismos cuya evolución, durante millones de años, se ha basado en la adaptación a los distintos ciclos diarios, lunares y estacionales (Helm *et al*., 2013; Kronfeld *et al*., 2013). Diversos estudios han determinado impactos negativos de ALAN sobre distintos procesos biológicos, tales como: orientación, reproducción, comunicación, migración y alimentación (Hagen *et al*., 2015; Luarte *et al*., 2016; Moore *et al*., 2000; Rand *et al*., 1997; Salmon *et al*., 1995) y sobre distintos niveles de organización biológica, desde el molecular hasta el ecosistémico (Bedrosian *et al*., 2013; Davies *et al*., 2012; Knop *et al*., 2017; Sanders *et al*., 2015). Por ejemplo, se ha demostrado que el comportamiento del krill antártico, *Euphausia superba*, se ve alterado por ALAN mediante la adopción de una respuesta de fototaxis positiva hacia las fuentes de luz artificial (Krafft & Krag, 2021).
 
@@ -12,19 +16,19 @@ La mayoría de los estudios han enfocado sus esfuerzos en discernir los efectos 
 
 Si bien existen otros estudios que consideran la composición espectral dentro de sus intereses de investigación, son acotados en su totalidad y aún más en ambientes marinos. El presente trabajo evaluó el efecto de ALAN bajo la reducción del componente azul de luces LED de 3000K, sobre la fisiología y conducta del pez intermareal *Girella laevifrons* o baunco(Tschudi, 1846) (Kyphosidae). Esta especie modelo fue escogida debido a que es una de las especies más relevantes en términos de abundancia (Pulgar *et al*., 2005) y biomasa de las posas intermareales de la costa Centro-Norte de Chile, jugando así un rol clave en la estructuración de comunidades de aquellos microambientes.
 
-## PREGUNTA DE INVESTIGACIÓN
+## Pregunta de Investigación
 
 ¿Luces con menor presencia del peak azul (o longitudes de onda corta) generan menos efectos negativos sobre el comportamiento y fisiología de *G. laevifrons*?
 
-## HIPÓTESIS
+## Hipótesis
 
 La reducción del espectro azul presente en luces LED blancas frías limita el impacto negativo de ALAN sobre las respuestas ecofisiológicas y conductuales del pez intermareal *Girella laevifrons*.
 
-## OBJETIVO
+## Objetivo
 
 Determinar el efecto de la reducción del peak azul presente en luces LED blancas frías sobre la ecofisiología y conducta de *G. laevifrons*.
 
-## AUDIENCIA
+## Audiencia
 
 El presente repositorio está dirigido a investigadores, académicos y funcionarios públicos que:
 
@@ -32,17 +36,17 @@ El presente repositorio está dirigido a investigadores, académicos y funcionar
 
 -   Desean incorporar los resultados a algún plan de manejo de políticas públicas asociadas a la luminaria pública de ambientes costeros.
 
-## AUTOR
+## Autor
 
 **Valentina Antonella Galaz**
 
-Programa de Doctorado en Ciencias Biológicas mención Ecología
-
 Pontificia Universidad Católica de Chile
+
+Programa de Doctorado en Ciencias Biológicas mención Ecología
 
 AGP3141 - Curso de Visualización de Datos Medioambientales en R
 
-Dictado por Sara Acevedo –\> @Saryace
+Dictado por Dra. Sara Acevedo –\> [\@Saryace](https://github.com/Saryace)
 
 [Researchgate](https://www.researchgate.net/profile/Valentina-A-Galaz-Guajardo); [Github](https://github.com/ValentinaGalazG); [LinkedIn](https://www.linkedin.com/in/valentinaantonellagalaz/)
 
