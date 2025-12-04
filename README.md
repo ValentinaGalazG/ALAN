@@ -26,17 +26,23 @@ Determinar el efecto de la reducción del peak azul presente en luces LED blanca
 
 ## Métodos
 
-*Diseño experimental - TRATAMIENTOS:*
+#### *Diseño experimental - TRATAMIENTOS:*
 
 1.  **ALAN-CPA (ALAN - Con Peak Azul)**
     -   Tratamiento con 6 réplicas
+
     -   Luz LED de 3000K (3 mil Kelvin → Temperatura Color - Luz neutra)
+
     -   Fotoperíodo: 12h luz día (luz natural) y 12h luz 3000K
+
     -   Intensidad lumínica: \~30 lux
 2.  **ALAN-SPA (ALAN - Sin Peak Azul)**
     -   Tratamiento con 6 réplicas
+
     -   Luz LED de 3000K con doble capa de filtro de luz azul (Lee Filters 441S Full C.T. Straw Lighting Gel) → Para reducir al máximo el peak azul en el tratamiento
+
     -   Fotoperiodo: 12h luz día y 12h luz 3000K + filtro azul.
+
     -   Intensidad lumínica: \~30 lux
 3.  **CONTROL**
     -   Tratamiento con 6 réplicas
@@ -47,7 +53,7 @@ Determinar el efecto de la reducción del peak azul presente en luces LED blanca
 
 Tanto el tratamiento ALAN CPA como ALAN SPA equipadas con luces LED modelo ENGINE, 3-14W 3K 40o 18VDC, EVOLUX, Chile.
 
-*Variables:*
+#### *Variables:*
 
 1.  Crecimiento (g)
 
@@ -59,9 +65,13 @@ Tanto el tratamiento ALAN CPA como ALAN SPA equipadas con luces LED modelo ENGIN
 2.  Consumo de O~2~ (mgO~2~g^-1^min^-1^)
 
     -   Un individuo juvenil de *G. laevifrons* por cada réplica fue mantenido sin alimento durante 24h antes del comienzo de las mediciones, para evitar un gasto energético asociado a la digestión del alimento (Chabot *et al*., 2016).
+
     -   El consumo de oxígeno se llevó a cabo bajo la metodología propuesta por Benítez *et al*. (2017).
+
     -   Post período de exposición a las condiciones de luz (16 días), cada ejemplar fue introducido en cámaras respirométricas de 1000 mL, con agua de mar filtrada y esterilizada mediante radiación UV.
+
     -   La concentración de oxígeno disuelto en las cámaras respirométricas (mgO~2~g^-1^min^-1^) fue medida a través de un respirómetro (PreSens Oxy-4 mini) y registrado durante 20 minutos cada 3 segundos.
+
     -   Los datos fueron almacenados en una matriz generada por el software PreSens Oxygen Calculator v3.1.1
 
 3.  Consumo de alimento (%)
