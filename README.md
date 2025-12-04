@@ -12,19 +12,19 @@ La mayoría de los estudios han enfocado sus esfuerzos en discernir los efectos 
 
 Si bien existen otros estudios que consideran la composición espectral dentro de sus intereses de investigación, son acotados en su totalidad y aún más en ambientes marinos. El presente trabajo evaluó el efecto de ALAN bajo la reducción del componente azul de luces LED de 3000K, sobre la fisiología y conducta del pez intermareal *Girella laevifrons* o baunco(Tschudi, 1846) (Kyphosidae). Esta especie modelo fue escogida debido a que es una de las especies más relevantes en términos de abundancia (Pulgar *et al*., 2005) y biomasa de las posas intermareales de la costa Centro-Norte de Chile, jugando así un rol clave en la estructuración de comunidades de aquellos microambientes.
 
-#### PREGUNTA DE INVESTIGACIÓN
+## PREGUNTA DE INVESTIGACIÓN
 
 ¿Luces con menor presencia del peak azul (o longitudes de onda corta) generan menos efectos negativos sobre el comportamiento y fisiología de *G. laevifrons*?
 
-#### HIPÓTESIS
+## HIPÓTESIS
 
 La reducción del espectro azul presente en luces LED blancas frías limita el impacto negativo de ALAN sobre las respuestas ecofisiológicas y conductuales del pez intermareal *Girella laevifrons*.
 
-#### OBJETIVO
+## OBJETIVO
 
 Determinar el efecto de la reducción del peak azul presente en luces LED blancas frías sobre la ecofisiología y conducta de *G. laevifrons*.
 
-**REFERENCIAS BIBLIOGRÁFICAS**
+## **REFERENCIAS BIBLIOGRÁFICAS**
 
 Cinzano, P., Falchi, F., Elvidge, C. & Baugh, K. (2000). The artificial night sky brightness mapped from DMSP satellite Operational Linescan System measurements. *Monthly Notices of the Royal Astronomical Society*, 318(3), 641-657. <https://doi.org/10.1046/j.1365-8711.2000.03562.x>
 
