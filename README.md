@@ -26,11 +26,9 @@ Determinar el efecto de la reducción del peak azul presente en luces LED blanca
 
 ## Métodos
 
-
 #### *Sitio de recolección*
 
 Organismos juveniles de *G. laevifrons* fueron recolectados de las pozas intermareales de la Playa El Litre, Quintay (33° 11'S; 72 43'W). Posteriormente, fueron trasladados a las dependencias del laboratorio de Biología del Centro de Investigaciones Marinas de Quintay (CIMARQ).
-
 
 #### *Diseño experimental - TRATAMIENTOS:*
 
@@ -98,7 +96,7 @@ El presente repositorio está dirigido a investigadores, académicos y funcionar
 
 ## Agradecimientos
 
-Estos experimentos fueron apoyados y financiados por el Dr. Cristian Duarte de la Universidad Andrés Bello, cuyos resultados nunca han sido publicados. Agradezco a todos los paquetes y herramientas de R que me permitieron avanzar esta fracción del proyecto (análisis y visualización de datos) que es esencial para su posterior publicación. Además, agradezco a la docente Sara Acevedo ([\@Saryace](#0){style="font-size: 11pt;"}) de la Pontificia Universidad Católica por la realización del curso "Visualización de Datos Medioambientales en R" y su colaboración incansable en el proceso de formación para alumnos de postgrado, que me permitieron desarrollar este proyecto en un contexto de programación y reproducibilidad, con la finalidad de hacer de la ciencia un campo más colaborativo. Finalmente, agradezco a OpenIA (versión GPT-5.1) por brindarme apoyo en el proceso de aprendizaje durante el desarrollo de este curso y proyecto.
+Estos experimentos fueron apoyados y financiados por el Dr. Cristian Duarte de la Universidad Andrés Bello, cuyos resultados nunca han sido publicados. Agradezco a todos los paquetes y herramientas de R que me permitieron avanzar esta fracción del proyecto (análisis y visualización de datos) que es esencial para su posterior publicación. Además, agradezco a la docente Sara Acevedo ([\@Saryace](https://github.com/Saryace)) de la Pontificia Universidad Católica por la realización del curso "Visualización de Datos Medioambientales en R" y su colaboración incansable en el proceso de formación para alumnos de postgrado, que me permitieron desarrollar este proyecto en un contexto de programación y reproducibilidad, con la finalidad de hacer de la ciencia un campo más colaborativo. Finalmente, agradezco a OpenIA (versión GPT-5.1) por brindarme apoyo en el proceso de aprendizaje durante el desarrollo de este curso y proyecto.
 
 ## Autor
 
@@ -136,7 +134,7 @@ Davies, T., & Smyth, T. (2018). Why artificial light at night should be a focus 
 
 Doll, C., Muller, J., & Morley, J. (2006). Mapping regional economic activity from night- time light satellite imagery. *Ecological Economics*, 57(1), 75–92.
 
-https://doi.org/10.1016/j.ecolecon.2005.03.007
+<https://doi.org/10.1016/j.ecolecon.2005.03.007>
 
 Falchi, F., Cinzano, P., Duriscoe, D., Kyba, C., Elvidge, C., Baugh, K., Portnov, B., Rybnikova, N. & Furgoni, R. (2016). The new world atlas of artificial light at night sky brightness. *Science Advances*, 2(6). <https://doi.org/10.1126/sciadv.1600377>
 
