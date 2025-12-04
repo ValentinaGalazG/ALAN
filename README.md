@@ -24,6 +24,28 @@ La reducción del espectro azul presente en luces LED blancas frías limita el i
 
 Determinar el efecto de la reducción del peak azul presente en luces LED blancas frías sobre la ecofisiología y conducta de *G. laevifrons*.
 
+## AUDIENCIA
+
+El presente repositorio está dirigido a investigadores, académicos y funcionarios públicos que:
+
+-   Están interesados en el estado del arte de ALAN en ambientes marinos de Chile.
+
+-   Desean incorporar los resultados a algún plan de manejo de políticas públicas asociadas a la luminaria pública de ambientes costeros.
+
+## AUTOR
+
+**Valentina Antonella Galaz**
+
+Programa de Doctorado en Ciencias Biológicas mención Ecología
+
+Pontificia Universidad Católica de Chile
+
+AGP3141 - Curso de Visualización de Datos Medioambientales en R
+
+Dictado por Sara Acevedo –\> @Saryace
+
+[Researchgate](https://www.researchgate.net/profile/Valentina-A-Galaz-Guajardo); [Github](https://github.com/ValentinaGalazG); [LinkedIn](https://www.linkedin.com/in/valentinaantonellagalaz/)
+
 ## **REFERENCIAS BIBLIOGRÁFICAS**
 
 Cinzano, P., Falchi, F., Elvidge, C. & Baugh, K. (2000). The artificial night sky brightness mapped from DMSP satellite Operational Linescan System measurements. *Monthly Notices of the Royal Astronomical Society*, 318(3), 641-657. <https://doi.org/10.1046/j.1365-8711.2000.03562.x>
