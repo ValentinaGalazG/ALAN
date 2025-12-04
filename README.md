@@ -26,10 +26,13 @@ Determinar el efecto de la reducción del peak azul presente en luces LED blanca
 
 ## Métodos
 
+<<<<<<< HEAD
 #### *Sitio de recolección*
 
 Organismos juveniles de *G. laevifrons* fueron recolectados de las pozas intermareales de la Playa El Litre, Quintay (33° 11'S; 72 43'W). Posteriormente, fueron trasladados a las dependencias del laboratorio de Biología del Centro de Investigaciones Marinas de Quintay (CIMARQ).
 
+=======
+>>>>>>> 6914ca9f6c070335d12edc085a3255fb70b61b66
 #### *Diseño experimental - TRATAMIENTOS:*
 
 1.  **ALAN-CPA (ALAN - Con Peak Azul)**
