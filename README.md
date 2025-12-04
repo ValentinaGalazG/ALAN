@@ -26,23 +26,55 @@ Determinar el efecto de la reducción del peak azul presente en luces LED blanca
 
 ## Métodos
 
+*Diseño experimental - TRATAMIENTOS:*
+
+1.  **ALAN-CPA (ALAN - Con Peak Azul)**
+    -   Tratamiento con 6 réplicas
+    -   Luz LED de 3000K (3 mil Kelvin → Temperatura Color - Luz neutra)
+    -   Fotoperíodo: 12h luz día (luz natural) y 12h luz 3000K
+    -   Intensidad lumínica: \~30 lux
+2.  **ALAN-SPA (ALAN - Sin Peak Azul)**
+    -   Tratamiento con 6 réplicas
+    -   Luz LED de 3000K con doble capa de filtro de luz azul (Lee Filters 441S Full C.T. Straw Lighting Gel) → Para reducir al máximo el peak azul en el tratamiento
+    -   Fotoperiodo: 12h luz día y 12h luz 3000K + filtro azul.
+    -   Intensidad lumínica: \~30 lux
+3.  **CONTROL**
+    -   Tratamiento con 6 réplicas
+
+    -   Fotoperiodo: 12h luz día y 12h oscuridad
+
+    -   Intensidad lumínica: ≈ 1.300 lux (Día) y 0±1 lux (Noche, ausencia de luz)
+
+Tanto el tratamiento ALAN CPA como ALAN SPA equipadas con luces LED modelo ENGINE, 3-14W 3K 40o 18VDC, EVOLUX, Chile.
+
 *Variables:*
 
 1.  Crecimiento (g)
 
-    Los individuos de *G. laevifrons* de cada réplica fueron alimentados diariamente con chorito maico (*Perumytilus purpuratus*). Este ensayo fue prolongado durante 16 días.
-
-    Los organismos fueron pesados al comienzo y al final del período experimental. La tasa de crecimiento fue determinada por la diferencia de peso, bajo la siguiente fórmula:
+    -   Individuos juveniles de *G. laevifrons* de cada réplica fueron alimentados diariamente con chorito maico (*Perumytilus purpuratus*). Este ensayo fue prolongado durante 16 días.
+    -   Los organismos fueron pesados al comienzo y al final del período experimental con una balanza Witeg Germany, WBA-220; precisión de ± 0,0001 g). La tasa de crecimiento fue determinada por la diferencia de peso, bajo la siguiente fórmula:
 
     $Crecimiento$ $=$ $Peso$ $final$ $pez$ $-$ $peso$ $inicial$ $pez$
 
 2.  Consumo de O~2~ (mgO~2~g^-1^min^-1^)
 
+    -   Un individuo juvenil de *G. laevifrons* por cada réplica fue mantenido sin alimento durante 24h antes del comienzo de las mediciones, para evitar un gasto energético asociado a la digestión del alimento (Chabot *et al*., 2016).
+    -   El consumo de oxígeno se llevó a cabo bajo la metodología propuesta por Benítez *et al*. (2017).
+    -   Post período de exposición a las condiciones de luz (16 días), cada ejemplar fue introducido en cámaras respirométricas de 1000 mL, con agua de mar filtrada y esterilizada mediante radiación UV.
+    -   La concentración de oxígeno disuelto en las cámaras respirométricas (mgO~2~g^-1^min^-1^) fue medida a través de un respirómetro (PreSens Oxy-4 mini) y registrado durante 20 minutos cada 3 segundos.
+    -   Los datos fueron almacenados en una matriz generada por el software PreSens Oxygen Calculator v3.1.1
+
 3.  Consumo de alimento (%)
 
-## Consumo de alimento 
+    -   Juveniles de *G. laevifrons* de cada réplica fueron diariamente alimentados con valvas de *P. purpuratus.*
 
-1.  
+    -   Transcurridas 24h, las valvas fueron retiradas de cada réplica y contabilizadas.
+
+    -   Finalmente, se generó una proporción para la cantidad de valvas consumidas vs el total de valvas ofrecidas, siendo en última instancia expresada como porcentaje.
+
+## Resultados
+
+## Conclusiones
 
 ## Audiencia
 
