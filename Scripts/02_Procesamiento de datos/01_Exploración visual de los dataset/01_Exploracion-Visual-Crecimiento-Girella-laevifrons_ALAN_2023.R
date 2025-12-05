@@ -7,7 +7,7 @@
 
 View(crecimiento) # Para observar la matriz de datos
 
-head(crecimiento,18) # Para observar el dataframe completo (hasta la fila 18) en la consola y no en una pestaña aparte
+head(crecimiento,18) # Para observar el dataframe completo (hasta la fila 18) en la consola y no en una pestaña aparte 
 
 
 # 2. Transformación de columnas de texto en columnas numéricas
