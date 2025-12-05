@@ -18,4 +18,4 @@ hist(consumo_oxigeno$`Consumo_oxigeno_(mgO2)`) # Sirve para visualizar rápidame
 
 # 4. Resumen simple ------------------------------------------------------------
 
-summary(crecimiento$`Crecimiento_(g)`) # Esta función nos permite conocer los promedios, valores mínimos y máximos y distribuciones. Es una radiografía cuantitativa rápida y efectiva para conocer cómo se comportan los datos 
+summary(consumo_oxigeno$`Consumo_oxigeno_(mgO2)`) # Esta función nos permite conocer los promedios, valores mínimos y máximos y distribuciones. Es una radiografía cuantitativa rápida y efectiva para conocer cómo se comportan los datos 
