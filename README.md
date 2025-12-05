@@ -1,6 +1,6 @@
 ## EFECTOS DE LA CONTAMINACIÓN LUMÍNICA (ALAN) SOBRE LA ECOFISIOLOGÍA DE UN PEZ INTERMAREAL DE LA COSTA CENTRO-NORTE DE CHILE
 
-[![© Imagen proveniente del Ministerio del Medio Ambiente (MMA) de Chile.](images/ALAN_CostadeChile.jpg)](https://luminica.mma.gob.cl/contaminacion-luminica-en-chile-y-el-mundo/)
+![Imagen proveniente del Ministerio del Medio Ambiente (MMA) de Chile.](Imagenes/ALAN_CostadeChile.jpg)
 
 La Contaminación Lumínica, también conocida como "ALAN" (por el acrónimo inglés de Artificial Light at Night), es un estresor global de origen antropogénico que tiene la capacidad de alterar los ciclos naturales de luz y oscuridad (Cinzano *et al*., 2000), amenazando fuertemente a los sistemas ecológicos, tanto terrestres como acuáticos (Singhal *et al*., 2021). Este estresor se encuentra presente alrededor de todo el mundo (Falchi *et al*., 2016) propagándose vasta y rápidamente (Hölker *et al*., 2010) a un ritmo anual de 6% (Hölker *et al*., 2010) gracias a la proliferación de las luces eléctricas (Hölker *et al*., 2010), la urbanización (Hale *et al*., 2013), el aumento de la densidad poblacional y el crecimiento económico (Doll *et al*., 2006; Gallaway *et al*., 2010).
 
