@@ -17,4 +17,4 @@ consumo_alimento <- read_csv2(datos_consumo_alimento)
 
 # 4. Verificación de carga de datos
 str(consumo_alimento)
-head(consumo_alimento)
+head(consumo_alimento) 
