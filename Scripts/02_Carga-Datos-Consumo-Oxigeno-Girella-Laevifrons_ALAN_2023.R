@@ -3,7 +3,7 @@
 # El presente script nos permitirá descargar los datos correspondientes al ensayo realizado durante el mes de Junio del año 2023, sobre los organismos juveniles de Girella laevifrons bajo las condiciones experimentales descritas y detalladas en el archivo "README.md"
 # Los datos deben ser cargados desde mi carpeta "Data" dentro del repositorio "ALAN". 
 # La explicación de cada función fue detallada en el archivo "01_Carga-Datos-Crecimiento-Girella-laevifrons_ALAN_2023.R" de la carpeta "Scripts"
-# Cada script de carga de datos corresponde a sólo 1 dataset. El presente corresponde a la carga de datos de "Consumo de Oxígeno".
+# Cada script de carga de datos corresponde sólo al dataset de 1 variable. El presente corresponde a la carga de datos de "Consumo de Oxígeno".
 
 # 1. Descarga de paquetes -------------------------------------
 install.packages("readr")
