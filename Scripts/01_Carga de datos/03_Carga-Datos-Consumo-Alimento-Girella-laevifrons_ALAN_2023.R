@@ -11,10 +11,10 @@ install.packages("readr")
 # 2. Cargar librería ------------------------------------------
 library(readr)
 
-# 3. Lectura del archivo .csv desde Github  
+# 3. Lectura del archivo .csv desde Github --------------------
 datos_consumo_alimento <- "https://raw.githubusercontent.com/ValentinaGalazG/ALAN/refs/heads/main/Data/consumo-de-alimento-database-2023_Girella-laevifrons.csv"
 consumo_alimento <- read_csv2(datos_consumo_alimento) 
 
-# 4. Verificación de carga de datos
+# 4. Verificación de carga de datos ---------------------------
 str(consumo_alimento)
 head(consumo_alimento) 
