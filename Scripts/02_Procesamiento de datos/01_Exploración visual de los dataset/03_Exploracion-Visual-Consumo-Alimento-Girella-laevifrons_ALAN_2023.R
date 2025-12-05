@@ -8,9 +8,6 @@
 View(consumo_alimento) # Para observar la matriz de datos 
 
 
-head(consumo_alimento,54) # Para observar el dataframe completo (hasta la fila 18) en la consola y no en una pestaña aparte 
-
-
 # 3. Histograma ----------------------------------------------------------------
 
 hist(consumo_alimento$`Consumo_alimento_(%)`) # Sirve para visualizar rápidamente la distribución del set de datos
