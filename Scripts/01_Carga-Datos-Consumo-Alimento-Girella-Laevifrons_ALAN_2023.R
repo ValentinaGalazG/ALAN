@@ -2,7 +2,7 @@
 
 # El presente script nos permitirá descargar los datos correspondientes al ensayo realizado durante el mes de Junio del año 2023, sobre los organismos juveniles de Girella laevifrons bajo las condiciones experimentales descritas y detalladas en el archivo "README.md"
 # Los datos deben ser cargados desde mi carpeta "Data" dentro del repositorio "ALAN". 
-# Cada script de carga de datos corresponde a sólo 1 dataset. El presente corresponde a la carga de datos de "Crecimiento".
+# Cada script de carga de datos corresponde sólo al dataset de 1 variable. El presente corresponde a la carga de datos de "Crecimiento".
 
 # 1. Descarga de paquetes -------------------------------------
 install.packages("readr") #Paquete "readr" permite la importación de datos desde archivos de texto ".csv" a Dataframes en R.
