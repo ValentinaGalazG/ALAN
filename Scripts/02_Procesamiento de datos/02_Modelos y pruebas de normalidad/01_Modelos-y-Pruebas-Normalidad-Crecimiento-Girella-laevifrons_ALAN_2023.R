@@ -10,13 +10,13 @@ install.packages("car") # Para el test de Homocedasticidad es necesaria la insta
 # 2. Librería
 library(car)
 
-# 2. Cambio de variable (Crecimiento_(g)) de texto a numérica ------------------
+# 3. Cambio de variable (Crecimiento_(g)) de texto a numérica ------------------
 
-crecimiento$`Crecimiento_(g)` <- as.numeric(crecimiento$`Crecimiento_(g)`
+crecimiento$`Crecimiento_(g)` <- as.numeric(crecimiento$`Crecimiento_(g)`)
 
 str(crecimiento$`Crecimiento_(g)`) # Utilizamos la función str() para verificar que "Crecimiento_(g)" haya cambiado de "chr" a "num"
 
-# 2. Modelo --------------------------------------------------------------------
+# 4. Modelo --------------------------------------------------------------------
 
 # Realizaremos un Modelo Lineal, cuyos residuales serán evaluados en las pruebas de normalidad y homocedasticidad
 # El presente modelo es de crecimiento y estará explicado por "Tratamiento" como predictor.
@@ -27,21 +27,21 @@ modelo <- lm(`Crecimiento_(g)` ~ Tratamiento, data = crecimiento) # La función 
 summary(modelo) # Función summary() la utilizamos para obtener los valores del modelo
 
 
-# 3. Obtención residuales del modelo -------------------------------------------
+# 5. Obtención residuales del modelo -------------------------------------------
 
 datos_modelo <- model.frame(modelo)
 
 datos_modelo$residuos <- residuals(modelo)
 
 
-# 4. Test de Normalidad --------------------------------------------------------
+# 6. Test de Normalidad --------------------------------------------------------
 
 # Para evaluar si la distribución del dataset de Crecimiento es normal, realizaremos un test de Shapiro Wilk
 
 shapiro.test(datos_modelo$residuos) # Si el p-value es > 0.05, entonces la distribución es normal
 
 
-# 5. Test de Homocedasticidad de Varianza --------------------------------------
+# 7. Test de Homocedasticidad de Varianza --------------------------------------
 
 # Para evaluar si los datos son Homocedástico, realizaremos un test de Levene 
 
