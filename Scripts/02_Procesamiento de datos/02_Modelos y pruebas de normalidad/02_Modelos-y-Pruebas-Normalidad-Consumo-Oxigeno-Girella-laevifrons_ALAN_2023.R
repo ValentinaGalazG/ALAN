@@ -19,16 +19,16 @@ str(consumo_oxigeno$`Consumo_oxigeno_(mgO2)`) # Utilizaremos la función str() p
 # El presente modelo es de Consumo de Oxígeno (O2) y estará explicado por "Tratamiento" como predictor.
 
 
-modelo <- lm(`Consumo_oxigeno_(mgO2)` ~ Tratamiento, data = consumo_oxigeno) # La función lm() eliminó la fila con NA)
+modelo_consumo_O2 <- lm(`Consumo_oxigeno_(mgO2)` ~ Tratamiento, data = consumo_oxigeno) # La función lm() eliminó la fila con NA)
 
-summary(modelo) # Función summary() la utilizamos para obtener los valores del modelo
+summary(modelo_consumo_O2) # Función summary() la utilizamos para obtener los valores del modelo
 
 
 # 5. Obtención residuales del modelo -------------------------------------------
 
-residuales_consumo_oxigeno <- model.frame(modelo)
+residuales_consumo_oxigeno <- model.frame(modelo_consumo_O2)
 
-residuales_consumo_oxigeno$residuos <- residuals(modelo)
+residuales_consumo_oxigeno$residuos <- residuals(modelo_consumo_O2)
 
 
 # 6. Test de Normalidad --------------------------------------------------------
