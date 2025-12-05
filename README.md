@@ -80,7 +80,8 @@ Tanto el tratamiento ALAN CPA como ALAN SPA equipadas con luces LED modelo ENGIN
 
     -   Juveniles de *G. laevifrons* de cada réplica fueron diariamente alimentados con valvas de *P. purpuratus.*
     -   Transcurridas 24h, las valvas fueron retiradas de cada réplica y contabilizadas.
-    -   Finalmente, se generó una proporción para la cantidad de valvas consumidas vs el total de valvas ofrecidas, siendo en última instancia expresada como porcentaje.
+    -   Este proceso fue repetido durante 3 días
+    -   Finalmente, se generó una proporción para la cantidad de valvas consumidas vs el total de valvas ofrecidas (por día), siendo en última instancia expresada como porcentaje.
 
 ## Resultados
 
