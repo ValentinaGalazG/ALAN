@@ -32,7 +32,7 @@ Organismos juveniles de *G. laevifrons* fueron recolectados de las pozas interma
 
 #### *Diseño experimental - TRATAMIENTOS:*
 
-1.  **ALAN-CPA (ALAN - Con Peak Azul)**
+1.  **COLD ALAN (Con Peak Azul)**
     -   Tratamiento con 6 réplicas
 
     -   Luz LED de 3000K (3 mil Kelvin → Temperatura Color - Luz neutra)
@@ -40,7 +40,7 @@ Organismos juveniles de *G. laevifrons* fueron recolectados de las pozas interma
     -   Fotoperíodo: 12h luz día (luz natural) y 12h luz 3000K
 
     -   Intensidad lumínica: \~30 lux
-2.  **ALAN-SPA (ALAN - Sin Peak Azul)**
+2.  **WARM ALAN (Sin Peak Azul)**
     -   Tratamiento con 6 réplicas
 
     -   Luz LED de 3000K con doble capa de filtro de luz azul (Lee Filters 441S Full C.T. Straw Lighting Gel) → Para reducir al máximo el peak azul en el tratamiento
