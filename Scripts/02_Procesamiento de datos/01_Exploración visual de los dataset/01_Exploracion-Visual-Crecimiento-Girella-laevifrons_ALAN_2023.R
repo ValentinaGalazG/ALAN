@@ -5,7 +5,7 @@
 
 # 1. Exploración matriz de datos -----------------------------------------------
 
-View(crecimiento) # Para observar la matriz de datos
+View(crecimiento) # Para observar la matriz de datos 
 
 head(crecimiento,18) # Para observar el dataframe completo (hasta la fila 18) en la consola y no en una pestaña aparte 
 
