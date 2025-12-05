@@ -22,16 +22,16 @@ str(crecimiento$`Crecimiento_(g)`) # Utilizamos la función str() para verificar
 # El presente modelo es de crecimiento y estará explicado por "Tratamiento" como predictor.
 
 
-modelo <- lm(`Crecimiento_(g)` ~ Tratamiento, data = crecimiento) # La función lm() eliminó la fila con NA
+modelo_crecimiento <- lm(`Crecimiento_(g)` ~ Tratamiento, data = crecimiento) # La función lm() eliminó la fila con NA
 
-summary(modelo) # Función summary() la utilizamos para obtener los valores del modelo
+summary(modelo_crecimiento) # Función summary() la utilizamos para obtener los valores del modelo
 
 
 # 5. Obtención residuales del modelo -------------------------------------------
 
-datos_modelo <- model.frame(modelo)
+datos_modelo <- model.frame(modelo_crecimiento)
 
-datos_modelo$residuos <- residuals(modelo)
+datos_modelo$residuos <- residuals(modelo_crecimiento)
 
 
 # 6. Test de Normalidad --------------------------------------------------------
