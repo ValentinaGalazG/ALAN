@@ -10,10 +10,10 @@ install.packages("readr") #Paquete "readr" permite la importación de datos desd
 # 2. Cargar librería ------------------------------------------
 library(readr) # La librería convoca al paquete para poder hacer la lectura del archivo .csv
 
-# 3. Lectura del archivo .csv desde Github  
+# 3. Lectura del archivo .csv desde Github --------------------
 datos_crecimiento <- "https://raw.githubusercontent.com/ValentinaGalazG/ALAN/refs/heads/main/Data/crecimiento-database-2023_Girella-laevifrons.csv"
 crecimiento <- read_csv2(datos_crecimiento) #Se utiliza read_csv2 ya que este archivo .csv está en formato Europeo (utiliza punto y coma como separador, y comas como decimal)
 
-# 4. Verificación de carga de datos
+# 4. Verificación de carga de datos ---------------------------
 str(crecimiento) # La función str() permite ver el número de filas, columnas y el nombre de las mismas.
 head(crecimiento) # La función head() se utiliza para visualizar las primeras filas del dataframe y así asegurarnos de que tanto los datos como las variables estén identificables, separadas y en orden
