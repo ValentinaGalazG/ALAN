@@ -1,4 +1,4 @@
-#EFECTOS DE LA CONTAMINACIÓN LUMÍNICA (ALAN) SOBRE LA ECOFISIOLOGÍA DE UN PEZ INTERMAREAL DE LA COSTA CENTRO-NORTE DE CHILE
+## EFECTOS DE LA CONTAMINACIÓN LUMÍNICA (ALAN) SOBRE LA ECOFISIOLOGÍA DE UN PEZ INTERMAREAL DE LA COSTA CENTRO-NORTE DE CHILE   
 
 [![© Imagen proveniente del Ministerio del Medio Ambiente (MMA) de Chile.](images/ALAN_CostadeChile.jpg)](https://luminica.mma.gob.cl/contaminacion-luminica-en-chile-y-el-mundo/)
 
