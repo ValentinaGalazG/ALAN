@@ -16,4 +16,4 @@ crecimiento <- read_csv2(datos_crecimiento) #Se utiliza read_csv2 ya que este ar
 
 # 4. Verificación de carga de datos
 str(crecimiento) # La función str() permite ver el número de filas, columnas y el nombre de las mismas.
-head(crecimiento) # La función head() se utiliza para visualizar las primeras filas del dataframe y así asegurarnos de que tanto los datos como las variables estén identificables, separadas y en orden
+head(crecimiento) # La función head() se utiliza para visualizar las primeras filas del dataframe y así asegurarnos de que tanto los datos como las variables estén identificables, separadas y en orden 
