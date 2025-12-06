@@ -95,6 +95,10 @@ El presente repositorio está dirigido a investigadores, académicos y funcionar
 
 -   Desean incorporar los resultados a algún plan de manejo de políticas públicas asociadas a la luminaria pública de ambientes costeros.
 
+## Recursos en línea utilizados
+
+Wickham, H. (2016). *ggplot2. Elegant Graphics for Data Analysis*. Springer. <https://ggplot2--book-org.translate.goog/scales-colour.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc> → Uso del paquete "dichromat" en los plots para personas con daltonismo.
+
 ## Agradecimientos
 
 Estos experimentos fueron apoyados y financiados por el Dr. Cristian Duarte de la Universidad Andrés Bello, cuyos resultados nunca han sido publicados. Agradezco a todos los paquetes y herramientas de R que me permitieron avanzar esta fracción del proyecto (análisis y visualización de datos) que es esencial para su posterior publicación. Además, agradezco a la docente Sara Acevedo ([\@Saryace](https://github.com/Saryace)) de la Pontificia Universidad Católica por la realización del curso "Visualización de Datos Medioambientales en R" y su colaboración incansable en el proceso de formación para alumnos de postgrado, que me permitieron desarrollar este proyecto en un contexto de programación y reproducibilidad, con la finalidad de hacer de la ciencia un campo más colaborativo. Finalmente, agradezco a OpenIA (versión GPT-5.1) por brindarme apoyo en el proceso de aprendizaje durante el desarrollo de este curso y proyecto.
