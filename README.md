@@ -85,7 +85,7 @@ Tanto el tratamiento ALAN CPA como ALAN SPA equipadas con luces LED modelo ENGIN
 
 ## Resultados
 
-![**Figura 1.** Tasa promedio (±SE) de crecimiento juvenil de *Girella laevifrons* expuestos a las condiciones experimentales (para detalles del diseño experimental, ver sección Métodos)](Figuras/Crecimiento/Fig.1_Crecimiento-Girella-laevifrons_ALAN_2023.tiff)
+![**Figura 1.** Tasa promedio (±SE) de crecimiento juvenil de *Girella laevifrons* expuestos a las condiciones experimentales (para detalles del diseño experimental, ver sección Métodos).](Fig.1_Crecimiento-Girella-laevifrons_ALAN_2023.png)
 
 ## Conclusiones
 
