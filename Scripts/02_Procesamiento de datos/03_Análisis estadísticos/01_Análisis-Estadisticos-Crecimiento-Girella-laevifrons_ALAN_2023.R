@@ -92,7 +92,7 @@ ggplot(visual,
                                    size = 9)
       )
 
-# 7. Guardado de la figura resultante en formato TIFF
+# 7. Guardado de la figura resultante en formato TIFF --------------------------
 
 ggsave("Fig.1_Crecimiento-Girella-laevifrons_ALAN_2023.tiff",
        plot = last_plot(),
